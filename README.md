@@ -42,5 +42,11 @@ names: ['mirror']                 # Class name
 📦 Download dataset: [Google Drive link](https://drive.google.com/drive/folders/1uIwLq1fSGvAVQhgAzU1Q7tI2ZmRPj1Rg?usp=drive_link)
 ### Dataset Directory
 ```yaml
-data/ ├── videos/ # Sample videos for testing │ └── sample1.mp4 # Sample parking lot video ├── test/ # Test video clips ├── training/ # Training datasets │ ├── images/ # Training images │ └── labels/ # Training annotations ├── val/ # Validation dataset ├── weights/ # Model weights │ ├── yolov5s.onnx # Pre-trained YOLO model │ └── custom/ # Custom trained models
+MSD/
+└── train/
+    └── images/
+    └── labels/
+└── test/
+    └── images/
+    └── labels/
 ```
