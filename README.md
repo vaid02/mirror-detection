@@ -27,9 +27,10 @@ This project uses a custom dataset called **MSD** (Mirror Surface Dataset).
 
 ```yaml
 path: MSD/training                # Root directory for training data
-train: images                     # Folder with training images
-val: val/images                   # Folder with validation images
+train: MSD/train/images                    # Folder with training images
+test: MSD/test/images                  # Folder with validation images
 
 nc: 1                             # Number of classes
 names: ['mirror']                 # Class name
 
+📦 Download dataset: [Google Drive link]([https://drive.google.com/...](https://drive.google.com/drive/folders/1uIwLq1fSGvAVQhgAzU1Q7tI2ZmRPj1Rg?usp=drive_link))
