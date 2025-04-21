@@ -62,3 +62,4 @@ Mirrors or reflective surfaces in parking lots or roadsides can mislead vehicle 
 3. Smart Surveillance & Security Systems
 
 Surveillance cameras can misinterpret mirror reflections as intrusions or additional people. Detecting mirrors enables accurate headcount, activity monitoring, and intrusion detection in high-security zones.
+![Alt Text](https://github.com/vaid02/mirror-detection/blob/main/val_batch1_labels%20(2)%20(1).jpg)
