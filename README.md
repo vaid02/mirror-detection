@@ -39,5 +39,5 @@ test: MSD/test/images                  # Folder with validation images
 nc: 1                             # Number of classes
 names: ['mirror']                 # Class name
 ```
-📦 Download dataset: [Google Drive link]([https://drive.google.com/drive/folders/1uIwLq1fSGvAVQhgAzU1Q7tI2ZmRPj1Rg?usp=drive_link])
+📦 Download dataset: [Google Drive link](https://drive.google.com/drive/folders/1uIwLq1fSGvAVQhgAzU1Q7tI2ZmRPj1Rg?usp=drive_link)
 
