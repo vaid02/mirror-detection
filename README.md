@@ -50,7 +50,7 @@ MSD/
     └── images/
     └── labels/
 ```
-###Applications
+### Applications
 1. Drone Navigation in Indoor Environments
 
 Drones using computer vision can misinterpret reflections in mirrors as real obstacles or paths. Detecting mirrors helps prevent crashes and incorrect navigation, making this solution a cost-efficient alternative to expensive LIDAR systems in some indoor use-cases.
