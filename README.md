@@ -12,6 +12,12 @@
 
 ---
 
+## 🔍 Objective
+
+Mirrors can mislead AI vision systems—particularly in robotics or drone navigation—by presenting reflections as real objects or paths. This model helps to **detect and identify mirrors in real-time video streams or images**, enabling smarter, safer decision-making.
+
+---
+
 ## 📁 Dataset - MSD
 
 This project uses a custom dataset called **MSD** (Mirror Surface Dataset).
